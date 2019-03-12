@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT go_bears_1322.wsgi:application
